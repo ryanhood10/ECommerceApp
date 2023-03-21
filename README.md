@@ -65,4 +65,5 @@ DELETE /api/tags/:id: Delete a tag by its ID.
 Ryan Hood
 github: github.com/ryanhood10
 
-Feel free to reach out to the creator, Ryan Hood, for any questions or suggestions. Happy coding!
+Xander Rapstine
+github: https://github.com/Xandromus
