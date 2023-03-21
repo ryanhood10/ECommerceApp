@@ -1,10 +1,11 @@
-//test
-// console.log(process.env.DB_NAME);
-// console.log(process.env.DB_USER);
-// console.log(process.env.DB_PASSWORD);
-// console.log(process.env.DB_HOST);
-// console.log(process.env.DB_PORT);
 
+
+//for this connection to work, you need a .env file with these creditials: (input your user and password)
+// DB_NAME=ecommerce_db
+// DB_USER=<your mysql username>
+// DB_PW=<your mysql password>
+// DB_HOST=localhost
+// DB_PORT=3306
 
 
 
