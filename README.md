@@ -27,6 +27,7 @@ Run node server.js to start the server.
 ## Usage
 After following the installation steps, use an API testing tool like Insomnia or Postman to test the API routes for managing products, categories, and tags.
 
+![226720070-44f805ca-3a45-44d1-be95-9e74fc66fc68](https://user-images.githubusercontent.com/114943155/226720133-7875adc4-5c8b-4d34-b463-e805be0a4354.jpg)
 
 
 ## API Routes
